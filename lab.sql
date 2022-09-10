@@ -23,7 +23,7 @@ create table materias
 
 alter table materias add constraint pk_materia primary key (RM);
 alter table professor add constraint pk_professor primary key (materias);
-alter table aluno add constraint pk_aluno primary key (materias);
+alter table aluno add constraint pk_aluno primary key (RA);
 
 alter table aluno add constraint fk_func_materia foreign key (materias) references materias;
 alter table professor add constraint fk_func_materia foreign key (materias) references materias;
