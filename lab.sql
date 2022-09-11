@@ -29,4 +29,3 @@ insert into professor values('P00000002', 'Valdomiro Placido dos Santos', 'Miro'
 insert into professor values('P00000003', 'Alexa IA', 'Alexa', 'Teologia E Fenômeno Humano');
 insert into professor values('P66666666', 'Ricardo Pannain', 'Pannain', 'Organização de Sistmas de Computaçao');
 insert into professor values('P00000004', 'Cleiton Josias Silveira', 'Cleitin', 'Robótica Computacional');
-
