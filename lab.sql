@@ -25,7 +25,7 @@ insert into aluno values('A22900229', 'Maiza Leticia Oliveira', 'Lê', 'Programa
 insert into professor values('P00000001', 'Leandro Alonso Xastre', 'Xastre', 'PI: Desenvolvimento de Sistemas Web');
 insert into professor values('P00000001', 'Leandro Alonso Xastre', 'Xastre', 'Programação Xastreriana I');
 insert into professor values('P00000001', 'Leandro Alonso Xastre', 'Xastre', 'Metodos de Produção Recurciva Xastririca');
-insert into professor values('P00000002', 'Profssor de Calculo Generico I', 'Calculadora Humana', 'Calculo I');
+insert into professor values('P00000002', 'Valdomiro Placido dos Santos', 'Miro', 'Calculo I');
 insert into professor values('P00000003', 'Alexa IA', 'Alexa', 'Teologia E Fenômeno Humano');
 insert into professor values('P66666666', 'Ricardo Pannain', 'Pannain', 'Organização de Sistmas de Computaçao');
 insert into professor values('P00000004', 'Cleiton Josias Silveira', 'Cleitin', 'Robótica Computacional');
